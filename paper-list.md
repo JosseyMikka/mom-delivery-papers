@@ -1,3 +1,4 @@
-| Title                                                                                           | Authors               | Link                                        |
-| ----------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------- |
-| Forward and Backward Bellman Equations Improve the Efficiency of the EM Algorithm for DEC-POMDP | Tottori and Kobayashi | [pdf](https://arxiv.org/pdf/2103.10752.pdf) |
+| Title                                                                                                       | Authors               | Link                                                            |
+| ----------------------------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------------------- |
+| Forward and Backward Bellman Equations Improve the Efficiency of the EM Algorithm for DEC-POMDP             | Tottori and Kobayashi | [pdf](https://arxiv.org/pdf/2103.10752.pdf)                     |
+| Efficient Routing Protocol for IoT Networks based on fog Computiong and Routing on Low power lossy networks | Verma and Deswal      | https://www.authorea.com/doi/pdf/10.22541/au.166687986.62025152 |
