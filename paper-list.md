@@ -1,5 +1,5 @@
-| Title                                                                                                       | Authors               | Link                                                                     |
-| ----------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------ |
-| Forward and Backward Bellman Equations Improve the Efficiency of the EM Algorithm for DEC-POMDP             | Tottori and Kobayashi | [pdf](https://arxiv.org/pdf/2103.10752.pdf)                              |
-| Efficient Routing Protocol for IoT Networks based on fog Computiong and Routing on Low power lossy networks | Verma and Deswal      | [paper](https://www.authorea.com/doi/pdf/10.22541/au.166687986.62025152) 
-|Algorithms for Big Data Delivery over the Internet of Things| Plageras and Psannis | [Access](https://xplorestaging.ieee.org/document/8010723/citations#citations) |
+| Title                                                                                                       | Authors               | Link                                                                          |
+| ----------------------------------------------------------------------------------------------------------- | --------------------- | ----------------------------------------------------------------------------- |
+| Forward and Backward Bellman Equations Improve the Efficiency of the EM Algorithm for DEC-POMDP             | Tottori and Kobayashi | [pdf](https://arxiv.org/pdf/2103.10752.pdf)                                   |
+| Efficient Routing Protocol for IoT Networks based on fog Computiong and Routing on Low power lossy networks | Verma and Deswal      | [paper](https://www.authorea.com/doi/pdf/10.22541/au.166687986.62025152)      |
+| Algorithms for Big Data Delivery over the Internet of Things                                                | Plageras and Psannis  | [Access](https://xplorestaging.ieee.org/document/8010723/citations#citations) |
