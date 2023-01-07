@@ -4,4 +4,5 @@
 | Efficient Routing Protocol for IoT Networks based on fog Computiong and Routing on Low power lossy networks | Verma and Deswal      | [paper](https://www.authorea.com/doi/pdf/10.22541/au.166687986.62025152)      |
 | Algorithms for Big Data Delivery over the Internet of Things                                                | Plageras and Psannis  | [Access](https://xplorestaging.ieee.org/document/8010723/citations#citations) |
 | AI-aided Traffic Differentiated QoS Routing and Dynamic Offloading in Distributed Fragmentation Optimized SDN-IoT | Begović, Čaušević, Memić and Hasković | [pdf](http://www.irphouse.com/ijert20/ijertv13n8_09.pdf)|
-|
+|A review on recent studies wireless sensor networks|  Osamy, Khedr, Salim, Ali and Sawy|[pdf]https://peerj.com/articles/cs-1089/ |
+| A survey on IoT Routing: Types, Challenges and Contribution of Recent Used Intelligent Methods | Tlili, Mnasri and Val | [Access](https://ieeexplore.ieee.org/document/9711649) |
