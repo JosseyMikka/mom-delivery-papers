@@ -6,3 +6,4 @@
 | AI-aided Traffic Differentiated QoS Routing and Dynamic Offloading in Distributed Fragmentation Optimized SDN-IoT | Begović, Čaušević, Memić and Hasković | [pdf](http://www.irphouse.com/ijert20/ijertv13n8_09.pdf)|
 |A review on recent studies wireless sensor networks|  Osamy, Khedr, Salim, Ali and Sawy|[pdf]https://peerj.com/articles/cs-1089/ |
 | A survey on IoT Routing: Types, Challenges and Contribution of Recent Used Intelligent Methods | Tlili, Mnasri and Val | [Access](https://ieeexplore.ieee.org/document/9711649) |
+| Congestion aware algorithm using fuzzy logic to find an optimal routing path for IoT networks | Shreyas, Singh and Pandit | [Access](https://ieeexplore.ieee.org/abstract/document/9004351 |
