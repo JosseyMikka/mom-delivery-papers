@@ -8,3 +8,7 @@
 | A survey on IoT Routing: Types, Challenges and Contribution of Recent Used Intelligent Methods | Tlili, Mnasri and Val | [Access](https://ieeexplore.ieee.org/document/9711649) |
 | Congestion aware algorithm using fuzzy logic to find an optimal routing path for IoT networks | Shreyas, Singh and Pandit | [Access](https://ieeexplore.ieee.org/abstract/document/9004351 |
 | AI-aided Traffic Differentiated QoS Routing and Dynamic Offloading in Distributed Fragmentation Optimized SDN-IoT | Begović, Čaušević, Memić and Hasković | [pdf] https://www.ripublication.com/irph/ijert20/ijertv13n8_09.pdf |
+| A New Small-World IoT Routing Mechanism Based on Cayley Graphs | Jiang, Ge, Zhong, Mao and Li| [pdf]https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8822477 |
+| Data delivery techniques in content centric routing for IoT: A sysematic review | Patel, Patel and Shrimali | [pdf] https://www.accentsjournals.org/PaperDirectory/Journal/IJATEE/2018/11/3.pdf |
+| A K-Means Clustering Based Message Forwarding Model for Internet of Things (IoT)| Kumar and Raza |[pdf] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8442636&tag=1 |
+| A Highly Effective Route for Real-Time Traffic Using an IoT Smart Algorithm for Tele-Surgery Using 5G Networks | Abujassar, Yaseen and Al-Adwan| [pdf] https://pdfs.semanticscholar.org/46f0/f41959753b99403f331f36c31671092ac593.pdf |
