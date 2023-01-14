@@ -12,3 +12,4 @@
 | Data delivery techniques in content centric routing for IoT: A sysematic review | Patel, Patel and Shrimali | [pdf] https://www.accentsjournals.org/PaperDirectory/Journal/IJATEE/2018/11/3.pdf |
 | A K-Means Clustering Based Message Forwarding Model for Internet of Things (IoT)| Kumar and Raza |[pdf] https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8442636&tag=1 |
 | A Highly Effective Route for Real-Time Traffic Using an IoT Smart Algorithm for Tele-Surgery Using 5G Networks | Abujassar, Yaseen and Al-Adwan| [pdf] https://pdfs.semanticscholar.org/46f0/f41959753b99403f331f36c31671092ac593.pdf |
+| Smart and self-organised routing algorithm for efficient IoT communications in smart cities | Hamrioui1, Hamrioui, Lioret,  Lorenz | [pdf] https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-wss.2018.5022 |
