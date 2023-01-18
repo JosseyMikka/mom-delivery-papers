@@ -18,7 +18,7 @@ the data generated and exchanged in the network in an efficient manner \cite{Tli
 Routing consists of applying an algorithm to determine the best route between the source and 
 the destination among multiple routes. In IoT networks, routing becomes essential because of its exceptional characteristics: 
 intelligence, connectivity, dynamic nature, security, and ability to host large-scale devices. The network sends data to gateways 
-as hosts and routers\cite{:2019}. Thus, routing policy specifies how routing devices connect to 
+as hosts and routers \cite{AlZubi-Al-Maitah-Alarifi:2019}. Thus, routing policy specifies how routing devices connect to 
 the network and circulate information, controlling the best route between two nodes among different routes. The author/cite 
 introduced an approach to mitigate packet loss by combining congestion management strategies with routing procedures to control
  inflow from the network layer. This boasts scalability by using a few nodes in routing and discovery. Similarly, combining 
@@ -28,26 +28,29 @@ introduced an approach to mitigate packet loss by combining congestion managemen
  hence incorporation. Hybrid mechanisms are encouraged. Another factor is the security of the data. Authentication is 
  encouraged between two devices. Congestion causes packet loss and delays. Multi-routing can be inspiring to balance the 
  load and stop the exhaustion of specific nodes. 
- An efficient and intelligent routing algorithm, SERA (Smart and Self-Organized Routing Algorithm), was proposed by [2] to 
- improve IoT communications. The proposed algorithm is called SSRA, which can select the best route for the packets. 
+ An efficient and intelligent routing algorithm, SERA (Smart and Self-Organized Routing Algorithm), was proposed by 
+ \cite{amrioui-Sofiane-Hamrioui-Camil-Lloret-Jaime-Lorenz-Pascal:2018} to improve IoT communications. The proposed algorithm is called SSRA, which can select the best route for the packets. 
  Smart cities are defined by the fact that they do not require fixed installation and configuration, in contrast to other types
   of networks. This makes their installation and deployment easy, and their use is solicited by all areas, such as smart cities.
  
   3.2 The AI techniques to overcome routing challenges in a network composed of IoT devices 
   
-Applications of artificial intelligence for routing are another way to address challenges in routing. Artificial intelligence
-is defined as the science of getting machines to mimic the problem-solving and decision-making abilities of a human brain. 
-According to the author, an algorithm called SERA exploits the experience acquired by the sent packets on the used route to 
-evaluate its effectiveness factor compared to the other possible routes. This factor is calculated according to the 
-communication parameters and the networks’ new situation. SERA recorded better results than three different routing
-algorithms regarding QoS parameters and device lifetime. According to the author's findings, using SERA as a routing 
-algorithm significantly improves IoT communications. [3], A new smart ration control algorithm (s-RCA) was proposed to 
-create an intelligent path in the network between source and destination, which speeds up the medical surgery packets 
-used in emergencies. This algorithm will read high-emergency traffic and open a session between the source and destination.
-It is configured to wait for some time; if no more packets are received, it will stop booking the path and return to normal
- mode. Node buffering was used to monitor emergency packets. Moreover, this simulation has demonstrated significant 
-improvements in network congestion, throughput, delay time, loss ratio, and network overhead. [2] used a self-organized 
-routing algorithm (SSRA) to improve the effectiveness of IoT communications in smart cities. SSRA is characterised by its 
+According to \cite{Tlili-Sihem-Mnasri-Sami-Val-hierry:2022} applications of artificial intelligence for routing are another 
+way to address challenges in routing. Artificial intelligence is defined by \cite{Dick2019Artificial:2019}
+as the science of getting machines to mimic the problem-solving and decision-making abilities of a human brain. 
+According to \cite{amrioui-Sofiane-Hamrioui-Camil-Lloret-Jaime-Lorenz-Pascal:2018} an algorithm called SERA exploits 
+the experience acquired by the sent packets on the used route to evaluate its effectiveness factor compared to the other 
+possible routes. This factor is calculated according to the communication parameters and the networks’ new situation. 
+SERA recorded better results than three different routing algorithms regarding QoS parameters and device lifetime.
+According to the \cite{amrioui-Sofiane-Hamrioui-Camil-Lloret-Jaime-Lorenz-Pascal:2018}'s findings, using SERA as a routing 
+algorithm significantly improves IoT communications. \cite{bujassar-Radwan-Yaseen-Husam-Al-Adwan-Ahmad:2021} proposed a new smart 
+ration control algorithm (s-RCA) to create an intelligent path in the network between source and destination, which speeds 
+up the medical surgery packets used in emergencies. This algorithm will read high-emergency traffic and open a session between
+ the source and destination. It is configured to wait for some time; if no more packets are received, it will stop booking the 
+ path and return to normal mode. Node buffering was used to monitor emergency packets. Moreover, this simulation has demonstrated 
+ significant improvements in network congestion, throughput, delay time, loss ratio, and network overhead. 
+ 
+ [2] used a self-organized routing algorithm (SSRA) to improve the effectiveness of IoT communications in smart cities. SSRA is characterised by its 
 ability to use the acquired experience of sending packets along the previous route to select a better future route. 
 Smart cities are defined by the fact that they do not require fixed installation and configuration, in contrast to other 
 types of networks. This makes their installation and deployment easy, and their use is solicited by all areas, such as 
@@ -55,18 +58,19 @@ smart cities. [4] conducted a survey to examine existing works that use artifici
 challenges. In the case of congested links, the QI-RM algorithm, which used both machine learning algorithms and a data 
 flow classification method, improved the following QoS criteria: delay, bandwidth, packet loss rate, and link load 
 balancing. However, these performances need to be demonstrated by actual experiments. In 2022, /cite ́ discussed a routing 
-optimization problem modelled as a ”multi-constrained shortest path problem” (CSP) to improve performance and optimise resources.
- A multi-CSP problem is an NP-hard problem. The results of the simulations of an NP-hard issue suggest a solution that improves performance in the following areas: 
-transmission delay, throughput, energy consumption, packet loss rate, and consumption of bandwidth. However, 
-there is a need for improvement to ensure support for failure management and network scalability. 
+optimization problem modelled as a ”multi-constrained shortest path problem” (CSP) to improve performance and optimise
+ resources. A multi-CSP problem is an NP-hard problem. The results of the simulations of an NP-hard issue suggest a solution 
+that improves performance in the following areas: transmission delay, throughput, energy consumption, packet loss rate,
+and consumption of bandwidth. However, there is a need for improvement to ensure support for failure management and network 
+scalability. 
 Several studies have been carried out in the area of IoT routing. The AI-based routing algorithms, or "intelligent routing"
 were preferred as they yielded better results in effectively determining the best route in IoT networks than traditional
-IoT algorithms, However, actual experiments in the real world need to test their effectiveness. We clearly observed in 
-these studies a lot of emphasis has been placed on improving the following criteria: heterogeneity, energy efficiency
-,and service quality. There is still limited work on algorithms targeted at minimising the number of devices 
-participating in a message transmission. Because IoT devices are less reliable, as indicated by /cite, traditional routing
-algorithms may be insufficient in dealing with uncertainty, such as inaccessible devices due to mobility. 
-In this study, we developed a message-oriented middleware that incorporates an AI algorithm for a more robust and 
-comprehensive routing mechanism for IoT networks.
+IoT algorithms, However, actual experiments in the real world need to test their effectiveness. 
 
-According to \cite{plageras-psannis:2017}
+In previous studies, a lot of emphases has been placed on routing algorithms to improve the following criteria: heterogeneity,
+energy efficiency, and service quality. There is still limited work on algorithms targeted at minimising the number of devices 
+participating in message transmission. Furthermore, IoT devices are less reliable and traditional routing algorithms may be 
+insufficient in dealing with uncertainty, such as inaccessible devices due to mobility. 
+In this study, we developed a message-oriented middleware that incorporates an AI algorithm for a more robust and comprehensive 
+routing mechanism for IoT networks.
+
